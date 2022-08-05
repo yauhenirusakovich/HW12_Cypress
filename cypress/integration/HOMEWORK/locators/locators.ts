@@ -1,0 +1,6 @@
+export const searchInputButton: string = '.x-search__input'
+export const logoBtn: string = '.c-logo'
+export const locatorVW: string = '.c-index-logo'
+export const webSite: string = 'https://www.drive2.ru/'
+export const moreCars: string = '.x-box-more'
+export const jurnals: string = '.c-sitesearch-categories__button'
